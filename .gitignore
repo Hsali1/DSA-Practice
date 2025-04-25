@@ -1,0 +1,8 @@
+# Ignore all wsl files containing zone.identifier
+**zone.identifier
+
+# Ignore common C++ executable names
+a.out
+main
+a
+*.exe
